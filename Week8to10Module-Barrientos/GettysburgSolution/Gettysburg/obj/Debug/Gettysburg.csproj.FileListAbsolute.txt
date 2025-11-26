@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\week3to8Module\GettysburgSolution\Gettysburg\bin\Debug\Gettysburg.txt
+C:\Users\student\Desktop\week3to8Module\GettysburgSolution\Gettysburg\bin\Debug\Gettysburg.exe.config
+C:\Users\student\Desktop\week3to8Module\GettysburgSolution\Gettysburg\bin\Debug\Gettysburg.exe
+C:\Users\student\Desktop\week3to8Module\GettysburgSolution\Gettysburg\bin\Debug\Gettysburg.pdb
+C:\Users\student\Desktop\week3to8Module\GettysburgSolution\Gettysburg\obj\Debug\Gettysburg.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\week3to8Module\GettysburgSolution\Gettysburg\obj\Debug\Gettysburg.Properties.Resources.resources
+C:\Users\student\Desktop\week3to8Module\GettysburgSolution\Gettysburg\obj\Debug\Gettysburg.csproj.GenerateResource.cache
+C:\Users\student\Desktop\week3to8Module\GettysburgSolution\Gettysburg\obj\Debug\Gettysburg.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\week3to8Module\GettysburgSolution\Gettysburg\obj\Debug\Gettysburg.exe
+C:\Users\student\Desktop\week3to8Module\GettysburgSolution\Gettysburg\obj\Debug\Gettysburg.pdb
+C:\Users\student\Desktop\week3to8Module\GettysburgSolution\Gettysburg\obj\Debug\Gettysburg.exe.config
