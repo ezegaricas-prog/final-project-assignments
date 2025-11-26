@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\LabExam1-Barrientos\Exam1Lab\TeletypeSimulation\obj\Debug\TeletypeSimulation.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\LabExam1-Barrientos\Exam1Lab\TeletypeSimulation\obj\Debug\TeletypeSimulation.Form1.resources
+C:\Users\student\Desktop\LabExam1-Barrientos\Exam1Lab\TeletypeSimulation\obj\Debug\TeletypeSimulation.Properties.Resources.resources
+C:\Users\student\Desktop\LabExam1-Barrientos\Exam1Lab\TeletypeSimulation\obj\Debug\TeletypeSimulation.csproj.GenerateResource.cache
+C:\Users\student\Desktop\LabExam1-Barrientos\Exam1Lab\TeletypeSimulation\obj\Debug\TeletypeSimulation.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\LabExam1-Barrientos\Exam1Lab\TeletypeSimulation\bin\Debug\TeletypeSimulation.exe.config
+C:\Users\student\Desktop\LabExam1-Barrientos\Exam1Lab\TeletypeSimulation\bin\Debug\TeletypeSimulation.exe
+C:\Users\student\Desktop\LabExam1-Barrientos\Exam1Lab\TeletypeSimulation\bin\Debug\TeletypeSimulation.pdb
+C:\Users\student\Desktop\LabExam1-Barrientos\Exam1Lab\TeletypeSimulation\obj\Debug\TeletypeSimulation.exe
+C:\Users\student\Desktop\LabExam1-Barrientos\Exam1Lab\TeletypeSimulation\obj\Debug\TeletypeSimulation.pdb
+C:\Users\student\Desktop\LabExam1-Barrientos\Exam1Lab\TeletypeSimulation\obj\Debug\TeletypeSimulation.exe.config
