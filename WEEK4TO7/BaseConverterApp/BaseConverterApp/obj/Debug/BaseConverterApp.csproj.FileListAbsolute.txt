@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\WEEK4TO7\BaseConverterApp\BaseConverterApp\bin\Debug\BaseConverterApp.exe.config
+C:\Users\student\Desktop\WEEK4TO7\BaseConverterApp\BaseConverterApp\bin\Debug\BaseConverterApp.exe
+C:\Users\student\Desktop\WEEK4TO7\BaseConverterApp\BaseConverterApp\bin\Debug\BaseConverterApp.pdb
+C:\Users\student\Desktop\WEEK4TO7\BaseConverterApp\BaseConverterApp\obj\Debug\BaseConverterApp.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\WEEK4TO7\BaseConverterApp\BaseConverterApp\obj\Debug\BaseConverterApp.Properties.Resources.resources
+C:\Users\student\Desktop\WEEK4TO7\BaseConverterApp\BaseConverterApp\obj\Debug\BaseConverterApp.csproj.GenerateResource.cache
+C:\Users\student\Desktop\WEEK4TO7\BaseConverterApp\BaseConverterApp\obj\Debug\BaseConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WEEK4TO7\BaseConverterApp\BaseConverterApp\obj\Debug\BaseConverterApp.exe
+C:\Users\student\Desktop\WEEK4TO7\BaseConverterApp\BaseConverterApp\obj\Debug\BaseConverterApp.pdb
+C:\Users\student\Desktop\WEEK4TO7\BaseConverterApp\BaseConverterApp\obj\Debug\BaseConverterApp.exe.config
+C:\Users\student\Desktop\WEEK4TO7\BaseConverterApp\BaseConverterApp\obj\Debug\BaseConverterApp.Form1.resources
