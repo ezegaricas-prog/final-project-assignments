@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Week10ProgrammingLab\RadioButtonsInAction\RadioButtonsInAction\bin\Debug\RadioButtonsInAction.exe.config
+C:\Users\student\Desktop\Week10ProgrammingLab\RadioButtonsInAction\RadioButtonsInAction\bin\Debug\RadioButtonsInAction.exe
+C:\Users\student\Desktop\Week10ProgrammingLab\RadioButtonsInAction\RadioButtonsInAction\bin\Debug\RadioButtonsInAction.pdb
+C:\Users\student\Desktop\Week10ProgrammingLab\RadioButtonsInAction\RadioButtonsInAction\obj\Debug\RadioButtonsInAction.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Week10ProgrammingLab\RadioButtonsInAction\RadioButtonsInAction\obj\Debug\RadioButtonsInAction.Properties.Resources.resources
+C:\Users\student\Desktop\Week10ProgrammingLab\RadioButtonsInAction\RadioButtonsInAction\obj\Debug\RadioButtonsInAction.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Week10ProgrammingLab\RadioButtonsInAction\RadioButtonsInAction\obj\Debug\RadioButtonsInAction.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Week10ProgrammingLab\RadioButtonsInAction\RadioButtonsInAction\obj\Debug\RadioButtonsInAction.exe
+C:\Users\student\Desktop\Week10ProgrammingLab\RadioButtonsInAction\RadioButtonsInAction\obj\Debug\RadioButtonsInAction.pdb
+C:\Users\student\Desktop\Week10ProgrammingLab\RadioButtonsInAction\RadioButtonsInAction\obj\Debug\RadioButtonsInAction.exe.config
