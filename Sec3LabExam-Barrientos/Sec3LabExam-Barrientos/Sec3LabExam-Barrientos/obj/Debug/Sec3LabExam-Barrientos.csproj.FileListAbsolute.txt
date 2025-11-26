@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\obj\Debug\Sec3LabExam-Barrientos.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\obj\Debug\Sec3LabExam_Barrientos.Properties.Resources.resources
+C:\Users\student\Desktop\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\obj\Debug\Sec3LabExam-Barrientos.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\obj\Debug\Sec3LabExam-Barrientos.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\bin\Debug\Sec3LabExam-Barrientos.exe.config
+C:\Users\student\Desktop\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\bin\Debug\Sec3LabExam-Barrientos.exe
+C:\Users\student\Desktop\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\bin\Debug\Sec3LabExam-Barrientos.pdb
+C:\Users\student\Desktop\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\obj\Debug\Sec3LabExam-Barrientos.exe
+C:\Users\student\Desktop\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\obj\Debug\Sec3LabExam-Barrientos.pdb
+C:\Users\student\Desktop\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\obj\Debug\Sec3LabExam-Barrientos.exe.config
+C:\Users\student\Desktop\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\Sec3LabExam-Barrientos\obj\Debug\Sec3LabExam_Barrientos.MainForm.resources
