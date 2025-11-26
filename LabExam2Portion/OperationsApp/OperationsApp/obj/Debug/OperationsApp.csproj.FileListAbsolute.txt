@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\LabExam2Portion\OperationsApp\OperationsApp\bin\Debug\OperationsApp.exe.config
+C:\Users\student\Desktop\LabExam2Portion\OperationsApp\OperationsApp\bin\Debug\OperationsApp.exe
+C:\Users\student\Desktop\LabExam2Portion\OperationsApp\OperationsApp\bin\Debug\OperationsApp.pdb
+C:\Users\student\Desktop\LabExam2Portion\OperationsApp\OperationsApp\obj\Debug\OperationsApp.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\LabExam2Portion\OperationsApp\OperationsApp\obj\Debug\OperationsApp.Properties.Resources.resources
+C:\Users\student\Desktop\LabExam2Portion\OperationsApp\OperationsApp\obj\Debug\OperationsApp.csproj.GenerateResource.cache
+C:\Users\student\Desktop\LabExam2Portion\OperationsApp\OperationsApp\obj\Debug\OperationsApp.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\LabExam2Portion\OperationsApp\OperationsApp\obj\Debug\OperationsApp.exe
+C:\Users\student\Desktop\LabExam2Portion\OperationsApp\OperationsApp\obj\Debug\OperationsApp.pdb
+C:\Users\student\Desktop\LabExam2Portion\OperationsApp\OperationsApp\obj\Debug\OperationsApp.exe.config
+C:\Users\student\Desktop\LabExam2Portion\OperationsApp\OperationsApp\obj\Debug\OperationsApp.Form1.resources
