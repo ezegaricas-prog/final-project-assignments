@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Week9-Barrientos\StringFormattingSolution\StringFormattingDemo\bin\Debug\StringFormattingDemo.exe.config
+C:\Users\student\Desktop\Week9-Barrientos\StringFormattingSolution\StringFormattingDemo\bin\Debug\StringFormattingDemo.exe
+C:\Users\student\Desktop\Week9-Barrientos\StringFormattingSolution\StringFormattingDemo\bin\Debug\StringFormattingDemo.pdb
+C:\Users\student\Desktop\Week9-Barrientos\StringFormattingSolution\StringFormattingDemo\obj\Debug\StringFormattingDemo.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Week9-Barrientos\StringFormattingSolution\StringFormattingDemo\obj\Debug\StringFormattingDemo.Properties.Resources.resources
+C:\Users\student\Desktop\Week9-Barrientos\StringFormattingSolution\StringFormattingDemo\obj\Debug\StringFormattingDemo.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Week9-Barrientos\StringFormattingSolution\StringFormattingDemo\obj\Debug\StringFormattingDemo.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Week9-Barrientos\StringFormattingSolution\StringFormattingDemo\obj\Debug\StringFormattingDemo.exe
+C:\Users\student\Desktop\Week9-Barrientos\StringFormattingSolution\StringFormattingDemo\obj\Debug\StringFormattingDemo.pdb
+C:\Users\student\Desktop\Week9-Barrientos\StringFormattingSolution\StringFormattingDemo\obj\Debug\StringFormattingDemo.exe.config
