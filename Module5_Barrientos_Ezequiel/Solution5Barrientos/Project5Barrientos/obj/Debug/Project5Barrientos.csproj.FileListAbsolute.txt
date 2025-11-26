@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Module5\Solution5Barrientos\Project5Barrientos\bin\Debug\Project5Barrientos.exe.config
+C:\Users\student\Desktop\Module5\Solution5Barrientos\Project5Barrientos\bin\Debug\Project5Barrientos.exe
+C:\Users\student\Desktop\Module5\Solution5Barrientos\Project5Barrientos\bin\Debug\Project5Barrientos.pdb
+C:\Users\student\Desktop\Module5\Solution5Barrientos\Project5Barrientos\obj\Debug\Project5Barrientos.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Module5\Solution5Barrientos\Project5Barrientos\obj\Debug\Project5Barrientos.frmChoices.resources
+C:\Users\student\Desktop\Module5\Solution5Barrientos\Project5Barrientos\obj\Debug\Project5Barrientos.Properties.Resources.resources
+C:\Users\student\Desktop\Module5\Solution5Barrientos\Project5Barrientos\obj\Debug\Project5Barrientos.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Module5\Solution5Barrientos\Project5Barrientos\obj\Debug\Project5Barrientos.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Module5\Solution5Barrientos\Project5Barrientos\obj\Debug\Project5Barrientos.exe
+C:\Users\student\Desktop\Module5\Solution5Barrientos\Project5Barrientos\obj\Debug\Project5Barrientos.pdb
