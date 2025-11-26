@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Module4\Module4Solution\Module4Project\bin\Debug\Module4Project.exe.config
+C:\Users\student\Desktop\Module4\Module4Solution\Module4Project\bin\Debug\Module4Project.exe
+C:\Users\student\Desktop\Module4\Module4Solution\Module4Project\bin\Debug\Module4Project.pdb
+C:\Users\student\Desktop\Module4\Module4Solution\Module4Project\obj\Debug\Module4Project.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Module4\Module4Solution\Module4Project\obj\Debug\Module4Project.frmOfDataTypes.resources
+C:\Users\student\Desktop\Module4\Module4Solution\Module4Project\obj\Debug\Module4Project.Properties.Resources.resources
+C:\Users\student\Desktop\Module4\Module4Solution\Module4Project\obj\Debug\Module4Project.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Module4\Module4Solution\Module4Project\obj\Debug\Module4Project.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Module4\Module4Solution\Module4Project\obj\Debug\Module4Project.exe
+C:\Users\student\Desktop\Module4\Module4Solution\Module4Project\obj\Debug\Module4Project.pdb
